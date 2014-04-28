@@ -9,6 +9,8 @@
 ## myTestObj = someTestClass("helloWorld42")
 ## objectDumper.dump(myTestObj)
 ##
+## Or
+##
 ## myObjectAsString = objectDumper.toString(myTestObj)
 ## print "as Str:\n %s" % myObjectAsString
 ##
