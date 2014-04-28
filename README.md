@@ -1,4 +1,4 @@
-python-object-dumper
+Python object dumper
 ====================
 
 Various object dumper tools
