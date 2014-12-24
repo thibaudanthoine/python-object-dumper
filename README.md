@@ -1,7 +1,7 @@
 Python Object Dumper
 ====================
 
-Various object dumper tools.
+A python object dumper tool.
 
 Sample usage
 ============
